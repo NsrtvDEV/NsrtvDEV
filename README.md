@@ -2,10 +2,10 @@
 
 ### 👋 About Me
 
-🔭 I enjoy building systems. Perfectionism blocks me sometimes, but I’m not afraid to hit the wall and learn through mistakes.
-❤️ I'm especially drawn to Python's async ecosystem - FastAPI, SQLAlchemy, aiogram - and figuring out how things scale under real load.
-🌱 I'm currently deepening my skills in system design and clean architecture for production backends.
-🚀 I want to build things that don't break - consistency and reliability are the next challenge.
+🔭 I enjoy building systems. Perfectionism blocks me sometimes, but I’m not afraid to hit the wall and learn through mistakes. 
+❤️ I'm especially drawn to Python's async ecosystem - FastAPI, SQLAlchemy, aiogram - and figuring out how things scale under real load. 
+🌱 I'm currently deepening my skills in system design and clean architecture for production backends. 
+🚀 I want to build things that don't break - consistency and reliability are the next challenge. 
 
 ### Socials:
 
