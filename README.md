@@ -19,10 +19,19 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=NsrtvDEV&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NsrtvDEV&layout=compact&theme=radical&hide_border=true)
+![](https://raw.githubusercontent.com/NsrtvDEV/NsrtvDEV/main/profile-summary-card-output/default/0-profile-details.svg)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NsrtvDEV/NsrtvDEV/main/profile-summary-card-output/default/1-repos-per-language.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/NsrtvDEV/NsrtvDEV/main/profile-summary-card-output/default/2-most-commit-language.svg" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NsrtvDEV/NsrtvDEV/main/profile-summary-card-output/default/3-stats.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/NsrtvDEV/NsrtvDEV/main/profile-summary-card-output/default/4-productive-time.svg" width="49%" />
+</p>
 
 ### Telegram Channel
 @nsrtv_dev
