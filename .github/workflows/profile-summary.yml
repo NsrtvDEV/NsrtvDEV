@@ -1,17 +1,21 @@
-name: Generate GitHub Profile Summary Cards
+name: GitHub-Profile-Summary-Cards
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    permissions:
+      contents: write
     steps:
-      - name: Generate cards
-        uses: vn7n24fzkq5/github-profile-summary-cards@release
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          user: NsrtvDEV
-          theme: github_dark
+          USERNAME: NsrtvDEV
+          BRANCH_NAME: "main"
